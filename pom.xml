@@ -183,6 +183,12 @@
                 <version>${easyb.version}</version>
                 <scope>test</scope>
             </dependency>
+			 <dependency>
+                <groupId>org.easyb</groupId>
+                <artifactId>easyb-core</artifactId>
+                <version>${easyb.version}</version>
+                <scope>test</scope>
+            </dependency>
         </dependencies>
     </dependencyManagement>
     <dependencies>
